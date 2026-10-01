@@ -1,0 +1,14 @@
+# TLS certificate and private key (generate locally with ./make_cert.sh)
+*.pem
+*.key
+*.crt
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# backups
+*.bak*
+*.tar.gz

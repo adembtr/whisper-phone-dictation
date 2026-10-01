@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Sesli Yaz (Whisper)
+Comment=Telefondan konus, masaustune yazsin
+Exec=/path/to/whisper-phone-dictation/basla.sh
+Icon=audio-input-microphone
+Terminal=true
+Categories=Utility;

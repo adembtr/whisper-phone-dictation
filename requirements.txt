@@ -1,0 +1,6 @@
+faster-whisper>=1.2
+
+# Optional, for an NVIDIA GPU (CUDA 12). basla.sh adds their lib folders to LD_LIBRARY_PATH:
+#   nvidia-cublas-cu12
+#   nvidia-cudnn-cu12
+#   nvidia-cuda-nvrtc-cu12
